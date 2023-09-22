@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "name": "contact-duplicate",
+      "label": "Duplicate a Contact",
+      "path": "contact-duplicate",
+      "insertPath": null
+    },
+    {
+      "name": "example-meal-order",
+      "label": "Gift a Meal",
+      "path": "example-meal-order",
+      "insertPath": null
+    },
+    {
+      "name": "with-crm-components",
+      "label": "CRM Components UI Extensions",
+      "path": "with-crm-components",
+      "insertPath": null
+    }
+  ]
+}
